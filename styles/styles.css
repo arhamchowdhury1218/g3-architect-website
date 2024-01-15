@@ -124,6 +124,51 @@ Teams section */
 }
 
 
+/* Features Section */
+
+.section-features {
+
+    display: flex;
+    margin-top: 100px;
+    gap: 150px;
+    max-width: 100%;
+}
+
+.features-description {
+
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.features-title-paragraph {
+
+
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    padding: 20px;
+    margin-top: 50px;
+    
+}
+
+
+.features-title {
+
+    color: #131313;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.features-paragraph {
+
+    color: #727272;
+    font-size: 16px;
+    font-weight: 400;
+
+}
 
 
 /* Responsive media queries */
